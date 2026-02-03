@@ -5,10 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6437FF&width=435&lines=Hola+%F0%9F%91%8B++;Soy+Ruth+Cruz+;Data+Science+Technical)](https://git.io/typing-svg)
 
-<a href="TU_LINK_DE_PORTFOLIO_AQUI" target="_blank">
+<a href="https://www.notion.so/ruthcruz/Ruth-Cruz-2a0675622b788062bc20c24104792a1b" target="_blank">
   <img src="https://img.shields.io/badge/MI_PORTFOLIO-6437FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/ruthncruz" target="_blank">
+<a href="www.linkedin.com/in/ruthncruz" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
