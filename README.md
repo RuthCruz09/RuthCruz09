@@ -17,12 +17,12 @@
 ## Sobre mí
 Soy **Técnica en Ciencia de Datos e IA**. Me especializo en analizar datos complejos para transformarlos en decisiones estratégicas. Tengo experiencia trabajando con Python, SQL y herramientas de visualización para proyectos de data analytics y data science. 🚀
 
-## 📊 Proyectos Destacados (Portfolio)
+## 📊 Proyectos Destacados 
 
 | Proyecto | Descripción | Demo/Link |
 | :--- | :--- | :---: |
-| **🏥 Hospital Admissions** | Análisis de ocupación y limpiezas de datos (Rosario) con Looker Studio. | [Ver Proyecto](https://github.com/RuthCruz09/internaciones-hospitalarias) |
-| **🏠 Real Estate CABA** | Predicción de precios usando Machine Learning, Web Scraping y Streamlit. | [Ver Demo](TU_LINK_DE_STREAMLIT) |
+| **🏥 Internacioenes Hospitalariass** | Análisis y limpiezas de datos de internaciones en Rosario con Looker Studio. | [Ver Proyecto](https://github.com/RuthCruz09/internaciones-hospitalarias) |
+| **🏠 Tasador Inmobiliario de departamentos en CABA** | Predicción de precios usando Machine Learning, Web Scraping y Streamlit. | [Ver Proyecto](https://github.com/RuthCruz09/tasador-inmuebles-caba) |
 | **📈 Desempleo Juvenil** | Visualización de datos sociales usando Looker Studio. | [Ver Reporte](https://github.com/RuthCruz09/AnalisisDelDesempleoLooker) |
 
 ---
