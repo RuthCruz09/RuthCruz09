@@ -15,7 +15,7 @@
 </div>
 
 ## Sobre mí
-Soy **Técnica en Ciencia de Datos e IA**. Me especializo en analizar datos complejos para transformarlos en decisiones estratégicas. Tengo experiencia trabajando con Python, SQL y herramientas de visualización para proyectos de salud y mercado inmobiliario. 🚀
+Soy **Técnica en Ciencia de Datos e IA**. Me especializo en analizar datos complejos para transformarlos en decisiones estratégicas. Tengo experiencia trabajando con Python, SQL y herramientas de visualización para proyectos de data analytics y data science. 🚀
 
 ## 📊 Proyectos Destacados (Portfolio)
 
