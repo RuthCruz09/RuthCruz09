@@ -8,7 +8,7 @@
 <a href="https://www.notion.so/ruthcruz/Ruth-Cruz-2a0675622b788062bc20c24104792a1b" target="_blank">
   <img src="https://img.shields.io/badge/MI_PORTFOLIO-6437FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
 </a>
-<a href="www.linkedin.com/in/ruthncruz" target="_blank">
+<a href="https://www.linkedin.com/in/ruthncruz/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
